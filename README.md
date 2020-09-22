@@ -1,6 +1,7 @@
 # ECE 1400 Fall 2020 HW 03
 
 Due:  Tuesday, September 29, 11:59PM MDT
+
 Grace period:  one week after the due date
 
 ## Additional instructions
